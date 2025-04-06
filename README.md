@@ -16,6 +16,9 @@ The game greets the user based on the current time of the day and continues the 
 - 'random'
 - 'datetime' or even 'time'
 
+## Author
+Tuhin Adhikari
+
 ## Installation
 ```bash
 pip install pyttsx3
