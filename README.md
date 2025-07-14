@@ -5,16 +5,16 @@ The game greets the user based on the current time of the day and continues the 
 
 ## Features
 - Greets the user using their name.
-- Voiced-based responses using 'pyttsx3'.
+- Voiced-based responses using `pyttsx3`.
 - Score tracking after every round.
 - Continues in a loop until the user types "no".
 - Simple and fun console-based game.
 
 ## Requirements
 - Python 3.x
-- 'pyttsx3' for voice output
-- 'random'
-- 'datetime' or even 'time'
+- `pyttsx3` for voice output
+- `random`
+- `datetime` or even `time`
 
 ## Author
 Tuhin Adhikari
